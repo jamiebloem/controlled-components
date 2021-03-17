@@ -1,1 +1,10 @@
-/*Schrijf hier jouw css voor jouw formulier*/
+
+
+label {
+    padding: 10px;
+    display: inline-block;
+}
+
+fieldset {
+    width: 300px;
+}
